@@ -1,3 +1,6 @@
+guia del proyecto
+https://www.youtube.com/watch?v=JED5llnlVVI
+
 # PWA Ecom UI Template
 
 This is a React 18/Next.js based template for an ecommerce application, focused on delivering a rich search and discovery experience.
